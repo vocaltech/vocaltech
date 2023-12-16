@@ -8,8 +8,8 @@
 | Rank | Languages    |
 |-----:|--------------|
 |     1| Java         |
-|     2| Javascript   |
-|     3| Typescript   |
+|     2| Typescript   |
+|     3| Javascript   |
 |     4| Kotlin       |
 
 </details>
