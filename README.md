@@ -14,8 +14,6 @@
 
 </details>
 
-## 🌐 Let's connect
-
 ## 💻 My tech stack
 
 <img width="125" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ca694bf-0ea9-4f1c-a3bd-8366da10f6eb">
@@ -32,6 +30,8 @@
 <br><br>
 <img width="80" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/0a0fb097-9cf2-4b4c-bfe7-7f527a644751">
 
+## 🌐 Stay in touch
+📫
 
 <!--
 **vocaltech/vocaltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
