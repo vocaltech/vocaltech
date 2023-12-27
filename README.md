@@ -26,9 +26,10 @@ My top languages:
 <h3>Backend</h3>
 <img width="80" alt="Java_logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/a49b0704-b202-4a4f-b7ef-384f13ecce11" align="top">
 <br><br>
-<img width="80" alt="Spring_Framework_Logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7c29d754-ab53-4082-b7c9-9bb7addaad90">
+&nbsp;&nbsp;<img width="80" alt="Spring_Framework_Logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7c29d754-ab53-4082-b7c9-9bb7addaad90">
 <br><br>
-<img width="80" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/2e994935-96de-4a93-94ed-cfb5ee9abe99">
+&nbsp;&nbsp;<img width="80" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/2e994935-96de-4a93-94ed-cfb5ee9abe99">
+<br><br>
 <h3>Mobile</h3>
 <img width="100" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/0a0fb097-9cf2-4b4c-bfe7-7f527a644751" align="center">
 <br><br>
