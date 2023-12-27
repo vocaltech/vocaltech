@@ -6,14 +6,14 @@
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
 </ul>
 
-&nbsp;&nbsp;My top languages:
+&nbsp;&nbsp;&nbsp;My top languages:
 
-| Rank | Languages    |
-|-----:|--------------|
-|     1| Java         |
-|     2| Typescript   |
-|     3| Javascript   |
-|     4| Kotlin       |
+&nbsp;&nbsp;&nbsp;| Rank | Languages    |
+&nbsp;&nbsp;&nbsp;|-----:|--------------|
+&nbsp;&nbsp;&nbsp;|     1| Java         |
+&nbsp;&nbsp;&nbsp;|     2| Typescript   |
+&nbsp;&nbsp;&nbsp;|     3| Javascript   |
+&nbsp;&nbsp;&nbsp;|     4| Kotlin       |
 
 ## 💻 My tech stack
 <h3>Frontend</h3>
