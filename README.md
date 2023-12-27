@@ -4,13 +4,7 @@
 <ul type="square">
 <li>I'm a future software developer</li>
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
-
 </ul>
-
-- 
-<br>
-- 
-<br><br>
 
 <details>
 <summary>My top languages</summary>
