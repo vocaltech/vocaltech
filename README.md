@@ -6,7 +6,7 @@
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
 </ul>
 
-My top languages
+My top languages:
 
 | Rank | Languages    |
 |-----:|--------------|
