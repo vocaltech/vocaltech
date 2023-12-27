@@ -1,7 +1,11 @@
 # Hi, I am Hery 👋
 
 ## About
-<br>
+<ul type="square">
+<li>future dev</li>
+  <li>fdev</li>
+</ul>
+
 - I'm a future software developer
 <br>
 - I'm currently learning to build projects with Spring Boot and Angular
