@@ -18,8 +18,9 @@ My top languages:
 ## 💻 My tech stack
 <h3>Frontend</h3>
 <img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ca694bf-0ea9-4f1c-a3bd-8366da10f6eb">
-&nbsp;
+<br><br>
 <img width="30" alt="Typescript_logo_2020_100px" src="https://github.com/vocaltech/vocaltech/assets/97410039/feaee7c8-6fd9-47d9-9240-4ced67de2795">
+<br><br>
 <img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e29821ed-053e-4447-9d83-49bf307a03de">
 <br><br>
 <h3>Backend</h3>
@@ -29,7 +30,8 @@ My top languages:
 <br><br>
 <img width="80" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/2e994935-96de-4a93-94ed-cfb5ee9abe99">
 <h3>Mobile</h3>
-<img width="80" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/0a0fb097-9cf2-4b4c-bfe7-7f527a644751">
+<img width="100" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/0a0fb097-9cf2-4b4c-bfe7-7f527a644751">
+<br><br>
 <img width="60" alt="Kotlin_logo_small" src="https://github.com/vocaltech/vocaltech/assets/97410039/bcd6fe9c-a270-4660-98d1-c48ac6aab7b6">
 
 ## 🌐 Stay in touch
