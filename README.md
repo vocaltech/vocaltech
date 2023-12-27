@@ -5,17 +5,15 @@
 <li>I'm a software developer</li>
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
 </ul>
-<summary>My top languages</summary>
-<details>
+
+My top languages
+
 | Rank | Languages    |
 |-----:|--------------|
 |     1| Java         |
 |     2| Typescript   |
 |     3| Javascript   |
 |     4| Kotlin       |
-
-</details>
-
 
 ## 💻 My tech stack
 
