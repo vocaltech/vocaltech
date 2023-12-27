@@ -1,6 +1,6 @@
 # Hi, I am Hery 👋
 
-##  <img width="25" src="https://github.com/vocaltech/vocaltech/assets/97410039/50973548-bcde-4167-a0e0-cce5677a2aef"> About
+##  <img width="45" src="https://github.com/vocaltech/vocaltech/assets/97410039/50973548-bcde-4167-a0e0-cce5677a2aef"> About
 <ul type="square">
 <li>I'm a future software developer</li>
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
