@@ -2,11 +2,12 @@
 
 ## <img width="28" src="https://github.com/vocaltech/vocaltech/assets/97410039/b3abefd5-eb04-4013-a1c6-4e3f1c72f5a0" align="top"> About
 <ul type="square">
-<li>I'm a future software developer</li>
+<li>I'm a software developer</li>
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
-</ul>
 
-<details>
+
+<li>
+  <details>
 <summary>My top languages</summary>
 
 | Rank | Languages    |
@@ -17,6 +18,9 @@
 |     4| Kotlin       |
 
 </details>
+
+</li>
+</ul>
 
 ## 💻 My tech stack
 
