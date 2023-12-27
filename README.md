@@ -1,9 +1,9 @@
 # Hi, I am Hery 👋
 
 ## About
-<summary>I'm a future software developer</summary>
+- I'm a future software developer
 <br>
-I'm currently learning to build projects with Spring Boot and Angular
+- I'm currently learning to build projects with Spring Boot and Angular
 <br>
 
 <details>
