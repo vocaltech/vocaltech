@@ -6,7 +6,7 @@
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
 </ul>
 
-My top languages:
+&nbsp;My top languages:
 
 | Rank | Languages    |
 |-----:|--------------|
@@ -35,9 +35,8 @@ My top languages:
 <br><br>
 &nbsp;&nbsp;<img width="60" alt="Kotlin_logo_small" src="https://github.com/vocaltech/vocaltech/assets/97410039/bcd6fe9c-a270-4660-98d1-c48ac6aab7b6">
 
-## 🌐 Stay in touch
-
 <!--
+## 🌐 Stay in touch
 **vocaltech/vocaltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
