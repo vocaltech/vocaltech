@@ -32,7 +32,7 @@ My top languages:
 <h3>Mobile</h3>
 <img width="100" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/0a0fb097-9cf2-4b4c-bfe7-7f527a644751" align="center">
 <br><br>
-<img width="60" alt="Kotlin_logo_small" src="https://github.com/vocaltech/vocaltech/assets/97410039/bcd6fe9c-a270-4660-98d1-c48ac6aab7b6">
+&nbsp;<img width="60" alt="Kotlin_logo_small" src="https://github.com/vocaltech/vocaltech/assets/97410039/bcd6fe9c-a270-4660-98d1-c48ac6aab7b6">
 
 ## 🌐 Stay in touch
 
