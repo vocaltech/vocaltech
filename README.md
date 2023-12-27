@@ -2,7 +2,7 @@
 
 ## About
 <ul type="square">
-<li>future dev</li>
+<li><font size="2">future dev</font></li>
   <li>fdev</li>
 </ul>
 
