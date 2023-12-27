@@ -1,6 +1,8 @@
 # Hi, I am Hery 👋
 
 ## About
+I'm a future software developer
+I'm currently learning to build projects with Spring Boot and Angular
 
 <details>
 <summary>My top languages</summary>
@@ -31,7 +33,6 @@
 <img width="80" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/0a0fb097-9cf2-4b4c-bfe7-7f527a644751">
 
 ## 🌐 Stay in touch
-📫
 
 <!--
 **vocaltech/vocaltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
