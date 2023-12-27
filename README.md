@@ -1,8 +1,8 @@
 # Hi, I am Hery 👋
 
 ## About
-I'm a future software developer
-I'm currently learning to build projects with Spring Boot and Angular
+I'm a future software developer<br>
+I'm currently learning to build projects with Spring Boot and Angular<br>
 
 <details>
 <summary>My top languages</summary>
