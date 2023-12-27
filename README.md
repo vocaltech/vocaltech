@@ -2,13 +2,14 @@
 
 ## About
 <ul type="square">
-<li><font size="2">future dev</font></li>
-  <li>fdev</li>
+<li>I'm a future software developer</li>
+<li>I'm currently learning to build some projects with Spring Boot and Angular</li>
+
 </ul>
 
-- I'm a future software developer
+- 
 <br>
-- I'm currently learning to build projects with Spring Boot and Angular
+- 
 <br><br>
 
 <details>
