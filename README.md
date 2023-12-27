@@ -21,7 +21,7 @@ My top languages:
 &nbsp;
 <img width="30" alt="Typescript_logo_2020_100px" src="https://github.com/vocaltech/vocaltech/assets/97410039/feaee7c8-6fd9-47d9-9240-4ced67de2795">
 &nbsp;
-<img width="80" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e29821ed-053e-4447-9d83-49bf307a03de">
+<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e29821ed-053e-4447-9d83-49bf307a03de">
 <br><br>
 <h3>Backend</h3>
 <img width="120" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/2e994935-96de-4a93-94ed-cfb5ee9abe99">
