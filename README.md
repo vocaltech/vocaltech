@@ -17,13 +17,12 @@ My top languages:
 
 ## 💻 My tech stack
 
-<b>Frontend</b>
-<br>
+<h3>Frontend</h3>
 <img width="125" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ca694bf-0ea9-4f1c-a3bd-8366da10f6eb">
 <img width="50" alt="Typescript_logo_2020_100px" src="https://github.com/vocaltech/vocaltech/assets/97410039/feaee7c8-6fd9-47d9-9240-4ced67de2795">
 <img width="120" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e29821ed-053e-4447-9d83-49bf307a03de">
 <br><br>
-<b>Backend></b>
+<b>Backend</b>
 <br>
 <img width="120" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/2e994935-96de-4a93-94ed-cfb5ee9abe99">
 <br><br>
