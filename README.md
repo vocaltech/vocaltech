@@ -5,10 +5,8 @@
 <li>I'm a software developer</li>
 <li>I'm currently learning to build some projects with Spring Boot and Angular</li>
 </ul>
-
-  <details>
 <summary>My top languages</summary>
-
+<details>
 | Rank | Languages    |
 |-----:|--------------|
 |     1| Java         |
