@@ -2,18 +2,18 @@
 ## <img width="28" alt="about-icon" src="https://github.com/vocaltech/vocaltech/assets/97410039/bd87b49b-f782-4197-91f1-9e356dc15bbe" align="top"> About
 <ul type="square">
 <li>I'm a self-taught fullstack developer</li>
-<li>I'm currently building Android projects, focused in MVVM architecture with Jetpack Compose</li>
+<li>I'm currently building Android projects using Java/Kotlin, focused on MVVM architecture (Jetpack framework)</li>
 </ul>
 
-**My top 5 languages by use-cases:**
+**My top 5 languages:**
 
 | Rank | Languages                 | Frontend                   | Backend                   | Mobile                    |
 |-----:|---------------------------| ---------------------------|---------------------------|---------------------------|
-|     1| <img width="70" alt="Java_logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/a49b0704-b202-4a4f-b7ef-384f13ecce11">                   |  | :white_check_mark: | :white_check_mark:  |
-|     2| <img width="30" src="https://github.com/vocaltech/vocaltech/assets/97410039/0ad68b0c-7b9e-427d-bed5-948642c1857c"> <img width="30" alt="Typescript_logo_2020_100px" src="https://github.com/vocaltech/vocaltech/assets/97410039/feaee7c8-6fd9-47d9-9240-4ced67de2795">  | :white_check_mark:  | :white_check_mark:  |   |
-|     3| <img width="80" alt="Kotlin_logo_small" src="https://github.com/vocaltech/vocaltech/assets/97410039/bcd6fe9c-a270-4660-98d1-c48ac6aab7b6">                 |  | :white_check_mark: | :white_check_mark:  |
-|     4| <img width="80" alt="Python_logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/13c41df5-2c40-499a-99f1-a747fd56af1c">     |  | :white_check_mark: |  |
-|     5| <img width="70" alt="PHP-logo-320px" src="https://github.com/vocaltech/vocaltech/assets/97410039/61329830-be6c-47ce-8732-7886f189b774">  |  | :white_check_mark: |  |
+|     1| <img width="70" alt="Java_logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/f0510dfc-b58d-4f02-8635-e9127fe175da">                   |  | :white_check_mark: | :white_check_mark:  |
+|     2| <img width="30" alt="JavaScript-logo-240px.png" src="https://github.com/vocaltech/vocaltech/assets/97410039/d2832e76-083b-4f37-9d65-15c41b648c6e"> <img width="30" alt="Typescript_logo_2020_100px" src="https://github.com/vocaltech/vocaltech/assets/97410039/41916a1a-7689-418b-9c40-5c87e9095fe9">  | :white_check_mark:  | :white_check_mark:  |   |
+|     3| <img width="80" alt="Kotlin_logo_small" src="https://github.com/vocaltech/vocaltech/assets/97410039/b271e7d3-a0a5-45c8-b8a2-0a3b6ab196ad">                 |  | :white_check_mark: | :white_check_mark:  |
+|     4| <img width="80" alt="Python_logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/f447b978-5f0e-44ac-ab54-0cbc014218e6">     |  | :white_check_mark: |  |
+|     5| <img width="70" alt="PHP-logo-320px" src="https://github.com/vocaltech/vocaltech/assets/97410039/00a57fc9-3ffc-4e1b-9fba-b4d82f42f041">  |  | :white_check_mark: |  |
 
 ## 💻 My Tech Stack
 <h2>Mobile</h2>
