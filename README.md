@@ -17,9 +17,9 @@
 
 ## 💻 My Tech Stack
 <h2>Mobile</h2>
-&nbsp;&nbsp;<img width="100" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/0a0fb097-9cf2-4b4c-bfe7-7f527a644751">
+&nbsp;&nbsp;<img width="100" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/04dd185a-0dc8-4c6e-9c89-e99343b5d310">
 <br>
-&nbsp;&nbsp;<img width="100" alt="Android-studio" src="https://github.com/vocaltech/vocaltech/assets/97410039/93ffb7fc-3059-48c5-a357-6f0d81cb80c4">
+&nbsp;&nbsp;<img width="100" alt="Android-studio" src="https://github.com/vocaltech/vocaltech/assets/97410039/0809c913-0008-4510-ae9c-8ccb33a3c5ae">
 <h2>Frontend</h2>
 &nbsp;&nbsp;<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e29821ed-053e-4447-9d83-49bf307a03de">
 &nbsp;&nbsp;<img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ca694bf-0ea9-4f1c-a3bd-8366da10f6eb">
