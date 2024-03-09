@@ -21,20 +21,20 @@
 <br>
 &nbsp;&nbsp;<img width="100" alt="Android-studio" src="https://github.com/vocaltech/vocaltech/assets/97410039/0809c913-0008-4510-ae9c-8ccb33a3c5ae">
 <h2>Frontend</h2>
-&nbsp;&nbsp;<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e29821ed-053e-4447-9d83-49bf307a03de">
-&nbsp;&nbsp;<img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ca694bf-0ea9-4f1c-a3bd-8366da10f6eb">
+&nbsp;&nbsp;<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/d0dbb17a-7da5-4328-a352-19fefd36ff61">
+&nbsp;&nbsp;<img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7f5a5e89-3c05-4232-a47f-5e6d004494b3">
 <h2>Backend</h2>
-&nbsp;&nbsp;<img width="80" alt="Spring_Framework_Logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7c29d754-ab53-4082-b7c9-9bb7addaad90">
+&nbsp;&nbsp;<img width="80" alt="Spring_Framework_Logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e4d67c58-68a1-414d-9d5e-ba3d5f04b639">
 <br><br>
-&nbsp;&nbsp;<img width="80" alt="Symfony-235px" src="https://github.com/vocaltech/vocaltech/assets/97410039/78ddd4ae-cfe0-4379-85c7-883f2bfd37cf">
+&nbsp;&nbsp;<img width="80" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ce0bf79-3c47-4dd3-a1e6-d9b1649b8afa">
 <br><br>
-&nbsp;&nbsp;<img width="80" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/2e994935-96de-4a93-94ed-cfb5ee9abe99">
+&nbsp;&nbsp;<img width="80" alt="Symfony-235px" src="https://github.com/vocaltech/vocaltech/assets/97410039/387bce8c-8cf8-4502-b091-34b253de47ce">
 <br><br>
-&nbsp;&nbsp;<img width="100" alt="postgresql-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/f69a8830-7d11-4697-bca5-c680844eb726">
+&nbsp;&nbsp;<img width="100" alt="postgresql-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/54e8d1a5-8172-4fa3-9e3f-a7e704943bbc">
 <br><br>
-&nbsp;&nbsp;<img width="90" alt="MongoDB-Logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/869d6f52-c282-4cbc-90e4-0ee222e9106e">
+&nbsp;&nbsp;<img width="90" alt="MongoDB-Logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/d71a1bb6-8a2f-4a7e-a7a8-04283a47a575">
 <br><br>
-&nbsp;&nbsp;<img width="90" alt="RabbitMQ_logo_172px" src="https://github.com/vocaltech/vocaltech/assets/97410039/aad45a34-c584-45c5-9ef3-b8a4c6c70350">
+&nbsp;&nbsp;<img width="90" alt="RabbitMQ_logo_172px" src="https://github.com/vocaltech/vocaltech/assets/97410039/aa099a58-9a5e-4af6-867f-425d9c2d7a9d">
 <h2>Devops and Cloud</h2>
 &nbsp;&nbsp;<img width="80" alt="github-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/ff5fb345-56dc-4787-885e-9a986bae9f68">
 <br><br>
