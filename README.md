@@ -36,11 +36,11 @@
 <br><br>
 &nbsp;&nbsp;<img width="90" alt="RabbitMQ_logo_172px" src="https://github.com/vocaltech/vocaltech/assets/97410039/aa099a58-9a5e-4af6-867f-425d9c2d7a9d">
 <h2>Devops and Cloud</h2>
-&nbsp;&nbsp;<img width="80" alt="github-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/ff5fb345-56dc-4787-885e-9a986bae9f68">
+&nbsp;&nbsp;<img width="80" alt="github-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/527016c7-6383-49e3-bd6a-d0a51efe826d">
 <br><br>
-&nbsp;&nbsp;<img width="90" alt="docker-logo_320px" src="https://github.com/vocaltech/vocaltech/assets/97410039/f300e33d-c567-4e23-ba5d-22a945ab0d22">
+&nbsp;&nbsp;<img width="90" alt="docker-logo_320px" src="https://github.com/vocaltech/vocaltech/assets/97410039/c0cdf235-5df4-4bfb-88cb-3fa81dd34dc8">
 <br><br>
-&nbsp;&nbsp;<img width="80" alt="debian_logo_96px" src="https://github.com/vocaltech/vocaltech/assets/97410039/85855a25-1ae3-4d5d-8611-1546677087a1">
+&nbsp;&nbsp;<img width="80" alt="debian_logo_96px" src="https://github.com/vocaltech/vocaltech/assets/97410039/8424711b-e11b-4165-b308-0fdfdafa1864">
 
 <!--
 ## 🌐 Stay in touch
