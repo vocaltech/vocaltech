@@ -17,9 +17,10 @@
 
 ## 💻 My Tech Stack
 <h2>Mobile</h2>
-&nbsp;&nbsp;<img width="100" alt="Android-logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/04dd185a-0dc8-4c6e-9c89-e99343b5d310">
-<br>
-&nbsp;&nbsp;<img width="100" alt="Android-studio" src="https://github.com/vocaltech/vocaltech/assets/97410039/0809c913-0008-4510-ae9c-8ccb33a3c5ae">
+<img width="280" alt="Android Studio_reduce" src="https://github.com/vocaltech/vocaltech/assets/97410039/c9893e8d-d14a-45a2-8782-b0d59df92a39">
+
+[![](https://img.shields.io/badge/github-orange?style=for-the-badge)](https://github.com/vocaltech)
+
 <h2>Frontend</h2>
 &nbsp;&nbsp;<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/d0dbb17a-7da5-4328-a352-19fefd36ff61">
 &nbsp;&nbsp;<img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7f5a5e89-3c05-4232-a47f-5e6d004494b3">
@@ -27,8 +28,6 @@
 &nbsp;&nbsp;<img width="80" alt="Spring_Framework_Logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e4d67c58-68a1-414d-9d5e-ba3d5f04b639">
 <br><br>
 &nbsp;&nbsp;<img width="80" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ce0bf79-3c47-4dd3-a1e6-d9b1649b8afa">
-<br><br>
-&nbsp;&nbsp;<img width="80" alt="Symfony-235px" src="https://github.com/vocaltech/vocaltech/assets/97410039/387bce8c-8cf8-4502-b091-34b253de47ce">
 <br><br>
 &nbsp;&nbsp;<img width="100" alt="postgresql-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/54e8d1a5-8172-4fa3-9e3f-a7e704943bbc">
 <br><br>
