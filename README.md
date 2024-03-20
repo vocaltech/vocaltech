@@ -22,15 +22,15 @@
 &nbsp;&nbsp;<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/d0dbb17a-7da5-4328-a352-19fefd36ff61">
 &nbsp;&nbsp;<img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7f5a5e89-3c05-4232-a47f-5e6d004494b3">
 <h2>Backend</h2>
-&nbsp;&nbsp;<img width="80" alt="Spring_Framework_Logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/e4d67c58-68a1-414d-9d5e-ba3d5f04b639">
-<br><br>
-&nbsp;&nbsp;<img width="80" alt="Node js_logo_2015_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/3ce0bf79-3c47-4dd3-a1e6-d9b1649b8afa">
-<br><br>
-&nbsp;&nbsp;<img width="100" alt="postgresql-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/54e8d1a5-8172-4fa3-9e3f-a7e704943bbc">
-<br><br>
-&nbsp;&nbsp;<img width="90" alt="MongoDB-Logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/d71a1bb6-8a2f-4a7e-a7a8-04283a47a575">
-<br><br>
-&nbsp;&nbsp;<img width="90" alt="RabbitMQ_logo_172px" src="https://github.com/vocaltech/vocaltech/assets/97410039/aa099a58-9a5e-4af6-867f-425d9c2d7a9d">
+
+[![](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black)]()
+[![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=black)]()
+[![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)]()
+[![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
+[![](https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=MongoDB&logoColor=black)]()
+[![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=black)]()
+[![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=black)]()
+
 <h2>Devops and Cloud</h2>
 
 [![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]()
