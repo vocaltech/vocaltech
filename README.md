@@ -9,11 +9,11 @@
 
 | Rank | Languages                 | Frontend                   | Backend                   | Mobile                    |
 |-----:|---------------------------| ---------------------------|---------------------------|---------------------------|
-|     1| <img width="70" alt="Java_logo_160px" src="https://github.com/vocaltech/vocaltech/assets/97410039/f0510dfc-b58d-4f02-8635-e9127fe175da">                   |  | :white_check_mark: | :white_check_mark:  |
-|     2| <img width="30" alt="JavaScript-logo-240px.png" src="https://github.com/vocaltech/vocaltech/assets/97410039/d2832e76-083b-4f37-9d65-15c41b648c6e"> <img width="30" alt="Typescript_logo_2020_100px" src="https://github.com/vocaltech/vocaltech/assets/97410039/41916a1a-7689-418b-9c40-5c87e9095fe9">  | :white_check_mark:  | :white_check_mark:  |   |
-|     3| <img width="80" alt="Kotlin_logo_small" src="https://github.com/vocaltech/vocaltech/assets/97410039/b271e7d3-a0a5-45c8-b8a2-0a3b6ab196ad">                 |  | :white_check_mark: | :white_check_mark:  |
-|     4| <img width="80" alt="Python_logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/f447b978-5f0e-44ac-ab54-0cbc014218e6">     |  | :white_check_mark: |  |
-|     5| <img width="70" alt="PHP-logo-320px" src="https://github.com/vocaltech/vocaltech/assets/97410039/00a57fc9-3ffc-4e1b-9fba-b4d82f42f041">  |  | :white_check_mark: |  |
+|     1| [![](https://img.shields.io/badge/java-blue?style=for-the-badge)]()                  |  | :white_check_mark: | :white_check_mark:  |
+|     2| [![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)]() [![](https://img.shields.io/badge/TS-3178C6?style=for-the-badge)]() | :white_check_mark:  | :white_check_mark:  |   |
+|     3| [![](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge)]()               |  | :white_check_mark: | :white_check_mark:  |
+|     4| [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)]()     |  | :white_check_mark: |  |
+|     5| [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)]()    |  | :white_check_mark: |  |
 
 ## 💻 My Tech Stack
 <h2>Mobile</h2>
