@@ -18,9 +18,6 @@
 ## 💻 My Tech Stack
 <h2>Mobile</h2>
 <img width="280" alt="Android Studio_reduce" src="https://github.com/vocaltech/vocaltech/assets/97410039/c9893e8d-d14a-45a2-8782-b0d59df92a39">
-
-[![](https://img.shields.io/badge/github-orange?style=for-the-badge)](https://github.com/vocaltech)
-
 <h2>Frontend</h2>
 &nbsp;&nbsp;<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/d0dbb17a-7da5-4328-a352-19fefd36ff61">
 &nbsp;&nbsp;<img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7f5a5e89-3c05-4232-a47f-5e6d004494b3">
@@ -35,11 +32,10 @@
 <br><br>
 &nbsp;&nbsp;<img width="90" alt="RabbitMQ_logo_172px" src="https://github.com/vocaltech/vocaltech/assets/97410039/aa099a58-9a5e-4af6-867f-425d9c2d7a9d">
 <h2>Devops and Cloud</h2>
-&nbsp;&nbsp;<img width="80" alt="github-logo" src="https://github.com/vocaltech/vocaltech/assets/97410039/527016c7-6383-49e3-bd6a-d0a51efe826d">
-<br><br>
-&nbsp;&nbsp;<img width="90" alt="docker-logo_320px" src="https://github.com/vocaltech/vocaltech/assets/97410039/c0cdf235-5df4-4bfb-88cb-3fa81dd34dc8">
-<br><br>
-&nbsp;&nbsp;<img width="80" alt="debian_logo_96px" src="https://github.com/vocaltech/vocaltech/assets/97410039/8424711b-e11b-4165-b308-0fdfdafa1864">
+
+[![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]()
+[![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker)]()
+[![](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian)]()
 
 <!--
 ## 🌐 Stay in touch
