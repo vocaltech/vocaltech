@@ -17,10 +17,16 @@
 
 ## 💻 My Tech Stack
 <h2>Mobile</h2>
-<img width="280" alt="Android Studio_reduce" src="https://github.com/vocaltech/vocaltech/assets/97410039/c9893e8d-d14a-45a2-8782-b0d59df92a39">
+
+[![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=black)]()
+
 <h2>Frontend</h2>
-&nbsp;&nbsp;<img width="85" alt="Angular_logo_240px" src="https://github.com/vocaltech/vocaltech/assets/97410039/d0dbb17a-7da5-4328-a352-19fefd36ff61">
-&nbsp;&nbsp;<img width="75" alt="html_js_css_250px" src="https://github.com/vocaltech/vocaltech/assets/97410039/7f5a5e89-3c05-4232-a47f-5e6d004494b3">
+
+[![](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=Angular&logoColor=black)]()
+[![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge)]()
+[![](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge)]()
+[![](https://img.shields.io/badge/css3-1572B6?style=for-the-badge)]()
+
 <h2>Backend</h2>
 
 [![](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black)]()
