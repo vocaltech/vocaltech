@@ -15,6 +15,14 @@
 |     4| [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)]()     |  | :white_check_mark: |  |
 |     5| [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)]()    |  | :white_check_mark: |  |
 
+**Fields covered:**
+<ul type="square">
+<li>Realtime Geolocation (GIS)</li>
+<li>Webscraping</li>
+<li>Dashboards</li>
+<li>Realtime Mediaplayer</li>
+</ul>
+
 ## 💻 My Tech Stack
 <h2>Mobile</h2>
 
