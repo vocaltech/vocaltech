@@ -1,4 +1,4 @@
-# Hi, I am Patrick 👋
+# Hi, I am Hery 👋
 ## <img width="28" alt="about-icon" src="https://github.com/vocaltech/vocaltech/assets/97410039/bd87b49b-f782-4197-91f1-9e356dc15bbe" align="top"> About
 <ul type="square">
 <li>I'm a self-taught fullstack developer</li>
