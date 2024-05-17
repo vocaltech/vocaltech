@@ -39,6 +39,7 @@
 
 [![](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black)]()
 [![](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=black)]()
+[![](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=NestJS&logoColor=red)]()
 [![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)]()
 [![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
 [![](https://img.shields.io/badge/MongoDb-47A248?style=for-the-badge&logo=MongoDB&logoColor=black)]()
