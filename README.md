@@ -1,16 +1,17 @@
 # Hi, I am Hery 👋
 ## <img width="28" alt="about-icon" src="https://github.com/vocaltech/vocaltech/assets/97410039/bd87b49b-f782-4197-91f1-9e356dc15bbe" align="top"> About
 <ul type="square">
-<li>I'm a self-taught fullstack developer</li>
-<li>I'm currently building Android projects using Java/Kotlin, focused on MVVM architecture (Jetpack framework)</li>
+<li><b>Java Spring/Angular fullstack developer</b></li>
+<li>I'm currently learning Spring Cloud Gateway with Keycloak integration</li>
+<li>I plan a SAAS business from scratch</li>
 </ul>
 
 **My top 5 languages:**
 
 | Rank | Languages                 | Frontend                   | Backend                   | Mobile                    |
 |-----:|---------------------------| ---------------------------|---------------------------|---------------------------|
-|     1| [![](https://img.shields.io/badge/java-blue?style=for-the-badge)]()                  |  | :white_check_mark: | :white_check_mark:  |
-|     2| [![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)]() [![](https://img.shields.io/badge/TS-3178C6?style=for-the-badge)]() | :white_check_mark:  | :white_check_mark:  |   |
+|     1| [![](https://img.shields.io/badge/java-blue?style=for-the-badge)]()                  |  | :white_check_mark: Spring Boot | :white_check_mark: Native Android |
+|     2| [![](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)]() [![](https://img.shields.io/badge/TS-3178C6?style=for-the-badge)]() | :white_check_mark: Angular | :white_check_mark: NestJS |   |
 |     3| [![](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge)]()               |  | :white_check_mark: | :white_check_mark:  |
 |     4| [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)]()     |  | :white_check_mark: |  |
 |     5| [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)]()    |  | :white_check_mark: |  |
